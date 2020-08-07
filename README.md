@@ -1,2 +1,2 @@
 # docker-echo
-Docker image of which entrypoint is echo
+Docker image whose entrypoint is echo
